@@ -1037,7 +1037,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/penny_office_adventure\/tiles\/floortileset.png",
+         "image":"tiles\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1051,7 +1051,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"..\/penny_office_adventure\/tiles\/tilesets_deviant_milkian_1.png",
+         "image":"tiles\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
