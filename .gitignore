@@ -1,2 +1,3 @@
 *.tsx
 *.tmx
+.DS-Store
